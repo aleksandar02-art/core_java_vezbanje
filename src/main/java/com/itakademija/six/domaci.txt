@@ -1,0 +1,30 @@
+
+
+Zadatak 1:
+Korsnik unosi broj meseca (1-12).
+Program ispisuje ime meseca na Nemackom.
+
+Zadatak 2:
+Korisnik unosi jedno od slova 'D', 'C', 'H', 'P'.
+ASCII tabela -> switch(char_value)
+              case 'D':
+              case 'H':
+Program ispisuje: "Dog", "Cat", "Horse", "Parrot".
+Za sve ostalo uknown animal
+
+Zadatak 3:
+Korisnik unosi matematicki operator : +, -, *, /
+Unosi i dva broj korisnik.
+Program izvrsi operaciju koriscenjem switch konstrukcije i kao rezultat primeni nad unesena
+dva broja navedenu operaciju.
+result = f(operator,broj1,broj2)
+
+Zadatak 4:
+Korisnik unosi ime drzave("Nemacka" , "Francuska","Italija", "Rumunija", "Rusija", "Kina", "Kongo"..)
+Program ispise glavni grad te drzave.
+
+Zadatak 5:
+Korisnik unosi ime dana u nemackom
+Program ispisuje:
+- radni dan
+- vikend
