@@ -1,4 +1,4 @@
-package com.itakademija.six;
+package com.itakademija.six._switch;
 
 import java.util.Scanner;
 

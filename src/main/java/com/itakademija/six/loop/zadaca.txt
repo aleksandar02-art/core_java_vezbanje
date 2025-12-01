@@ -1,0 +1,33 @@
+Zadatak 1:
+Pomocu do-while petlje ispisati sve brojeve od 1 do 10
+
+Zadatak 2:
+Korisnik unosi broj:
+-ako je negativan -> trazi unos u suprotnom zavrsi preostale linije koda
+
+Zadatak 3:
+Korisnik unosi broj N.
+Program ispisuje brojeve od N do 1 pomocu do-while.
+
+Zadatak 4:
+Korisnik unosi brojeve.
+Program sabira brojeve na svaki korisnicki unos, a kada korisnik
+unese -1 taj broj se ne dodaje na sumu nego se prikazuje suma svih prethodno unesenih brojeva i program zavrsava.
+
+Zadatak 5:
+program prikazuje opcije menija:
+
+1.Start
+2.Help
+3.Exit
+
+Program koristi do-while petlju i pusta korisnika da uvek iznova bira opciju, a program prestaje tek nakon
+uzbora "Exit" opcije 3.
+
+Zadatak 6:
+Program generise slucajan broj 1-20.
+int slucajniBroj = new Random().nextInt(20);
+Korisnik unosi brojeve sve dok ne pogodi
+
+Zadatak 7:
+Dodatak na zadatak 6 je da korisnik ima pravo 5x da pogadja, dakle 6-ti put ga izbacuje i prgram zavrsava.
